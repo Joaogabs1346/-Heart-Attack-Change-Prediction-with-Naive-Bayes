@@ -24,12 +24,17 @@ Value 4: asymptomatic
 trtbps: resting blood pressure (in mm Hg)
 
 chol: cholesterol in mg/dl obtained through the BMI sensor
+
 fbs: (fasting blood sugar >120 mg/dl) (1=true; 0=false)
+
 rest_ecg: resting electrocardiographic results
+
 Value 0: normal
 Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression >0.05 mV)
 Value 2: showing probable or definite left ventricular hypertrophy 
+
 thalach: maximum heart rate reached
+
 Predicted variable:
 
 0 = less chance of heart attack
